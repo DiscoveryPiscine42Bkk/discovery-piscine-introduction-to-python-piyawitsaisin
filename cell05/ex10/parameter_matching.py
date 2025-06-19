@@ -8,5 +8,5 @@ else:
     if user_input == expected:
         print("Good job!")
     else:
-        print("Nope, sorry...")
+        print("Nope, sorry..")
 
